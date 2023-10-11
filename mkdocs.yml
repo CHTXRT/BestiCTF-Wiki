@@ -1,0 +1,23 @@
+site_name: Besti CTF|Wiki
+site_author: CHTXRT
+theme: 
+  name: material
+  palette:
+    #primary: blue grey
+  
+    - scheme: default # 日间模式
+      #primary: grey # 上方的
+      accent: cyan # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: Switch to dark mode
+        
+    - scheme: slate
+      toggle:
+        icon: material/brightness-7
+        name: Switch to light mode
+        
+nav:
+- Home: index.md
+- Misc:
+  - "Misc/CTF": Misc/index.md
