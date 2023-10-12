@@ -16,7 +16,7 @@ theme:
   - navigation.instant      # 即时导航
   # - navigation.prune        # 导航修剪
   # - navigation.sections     # 导航节
-  - navigation.tabs         # 导航标签
+  # - navigation.tabs         # 导航标签
   # - navigation.tabs.sticky  # 固定导航标签
   - navigation.top            # 导航顶部
   - navigation.footer         # 导航底部
@@ -44,6 +44,6 @@ theme:
 nav:
   - Hello,BestiCTFer: 
     - index.md
-    - Misc | 杂项:
-      - Misc/index.md
-      - 定级标准: Misc/level.md
+  - Misc | 杂项:
+    - Misc/index.md
+    - 定级标准: Misc/level.md
