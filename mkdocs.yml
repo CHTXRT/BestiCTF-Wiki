@@ -1,5 +1,11 @@
+# 项目信息 / Project information
 site_name: Besti CTF|Wiki
+site_url: http://wiki.ctf.besti.club/
 site_author: CHTXRT
+
+# 版权声明 / Copyright
+copyright: Copyright &copy; 2023 Besti Club
+
 theme: 
   name: material
   features:
