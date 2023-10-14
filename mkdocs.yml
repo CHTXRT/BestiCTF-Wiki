@@ -51,17 +51,17 @@ nav:
   - Hello,BestiCTFer: 
     - index.md
   - Misc | 杂项:
-    - Misc/index.md
+    #- Misc/index.md
     - 定级标准: Misc/level.md
   - Web | 网络攻防:
-    - Web/index.md
+    #- Web/index.md
     - 定级标准: Web/level.md
   - Crypto | 密码学:
-    - Crypto/index.md
+    #- Crypto/index.md
     - 定级标准: Crypto/level.md
   - Reverse | 逆向工程:
-    - Reverse/index.md
+    #- Reverse/index.md
     - 定级标准: Reverse/level.md
   - Pwn | 二进制安全:
-    - Pwn/index.md
+    #- Pwn/index.md
     - 定级标准: Pwn/level.md
